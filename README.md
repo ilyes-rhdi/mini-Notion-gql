@@ -2,8 +2,8 @@
 
 1) Clone the repository
 ```bash
-git clone https://github.com/ilyes-rhdi/buildit-Gql.git
-cd buildit-Gql
+git clone https://github.com/ilyes-rhdi/mini-Notion-gql.git
+cd mini-Notion-gql
 ```
 
 2) Configure environment variables
